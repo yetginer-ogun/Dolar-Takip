@@ -10,7 +10,7 @@ kur1 = data["rates"]["TRY"]
 kur1
 
 mixer.init()
-artis = mixer.Sound('ses.mp3')
+artis = mixer.Sound('ses1.mp3')
 azalis = mixer.Sound('ses2.mp3')
 
 
